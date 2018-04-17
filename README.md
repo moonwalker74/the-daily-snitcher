@@ -13,7 +13,7 @@ Read here: https://moonwalker74.github.io/hogwarts-news/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.
 
 ## Screenshots
-[comment]: <> (  ![](/screenshots/titlepage.png) ![](/screenshots/game.png)  )
+X X
 
 ## Motivation
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.
