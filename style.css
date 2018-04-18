@@ -1,1 +1,112 @@
 
+body {
+    background-color: #333333;
+    padding: 2%;
+}
+
+#paper {
+    background-color: #fff8ee;
+    margin: auto;
+    width: 1000px;
+    height: 1500px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 28px -3px rgba(0,0,0,0.75);
+    position: relative;
+}
+
+#paper h1 {
+  font-family: "Harry Potter";
+  width: 96%;
+  text-align: center;
+  font-size: 6.5em;
+  color: rgba(29, 24, 11, .9);
+  border: 1px solid rgba(29, 24, 11, 1);
+  text-shadow: 3px 3px 0px rgb(162, 126, 41);
+  border-width: 3px 0px;
+  margin: auto;
+}
+
+#paper.none h1 {
+  text-shadow: 3px 3px 0px rgb(162, 126, 41);
+}
+
+#paper.gry h1 {
+  text-shadow: 3px 3px 0px rgb(178, 35, 35);
+}
+
+#paper.sly h1 {
+  text-shadow: 3px 3px 0px rgb(44, 138, 76);
+}
+
+#paper.rav h1 {
+  text-shadow: 3px 3px 0px rgb(66, 93, 183);
+}
+
+#paper.huf h1 {
+  text-shadow: 3px 3px 0px rgb(236,185,57);
+}
+
+.color {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+a.changecolor {
+  height: 20px;
+  width: 20px;
+  margin: 2px;
+  display: inline-block;
+}
+
+a#none {
+  background: rgba(29, 24, 11, .9);
+}
+a#gry {
+  background: rgb(178, 35, 35);
+}
+a#sly {
+  background: rgb(44, 138, 76);
+}
+a#rav {
+  background: rgb(66, 93, 183);
+}
+a#huf {
+  background: rgb(236,185,57);
+}
+
+
+#paper div.THE {
+  font-family: 'IM Fell DW Pica SC';
+  background: #fff8ee;
+  width: fit-content;
+  margin: auto;
+  position: relative;
+  font-size: 2em;
+  top: .7em;
+  padding: 0 10px;
+}
+
+#paper h1::before, #paper h1::after {
+    content: "—";
+    font-size: .5em;
+    line-height: 1em;
+  vertical-align: middle;
+  text-shadow: none;
+}
+
+
+
+/* ADD FONTS */
+
+@font-face {
+    font-family: "Harry Potter";
+    src: url('harrypotter.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Marauders";
+    src: url('harrypotter2.ttf') format("truetype");
+}
+
+
