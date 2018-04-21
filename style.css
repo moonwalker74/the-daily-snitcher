@@ -396,4 +396,9 @@ div.author {
     src: url(HeadlineOne.ttf) format("truetype");
 }
 
+@media (max-width: 1024px) {
+  body {
+      padding: 2% 0;
+    }
+}
 
