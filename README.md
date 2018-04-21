@@ -1,7 +1,7 @@
-# Hogwarts News
-When . meets . = Hogwarts News (ENGL 503 Creative Project)
+# The Daily Snitcher
+What if "The Daily Prophet" fell into the hand of Hogwarts Students (ENGL 503 Creative Project)
 
-Read here: https://moonwalker74.github.io/hogwarts-news/
+Read here: https://moonwalker74.github.io/the-daily-snitcher/
 
 ## Synopsis
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.
