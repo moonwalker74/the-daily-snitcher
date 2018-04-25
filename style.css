@@ -239,10 +239,13 @@ div.author {
   margin-left: 10px;
 }
 
+.mainarticles h2 {
+
+}
+
 .mainarticles h2 span {
   display: inline-block;
-  transform: scale(1,1.8);
-  letter-spacing: 4px;
+  letter-spacing: 0px;
   margin-top: .3em;
   margin-right: 10px;
 }
@@ -258,8 +261,9 @@ div.author {
 
 .mainarticles img {
   float: right;
-  margin-bottom: 5px;
   display: block;
+  margin: 10px;
+  margin-left: 0;
 }
 
 .column {
@@ -328,7 +332,6 @@ div.author {
   text-align: right;
   padding: 2px 10px 2px 10px;
   width: 45%;
-  margin-top: -15px;
 }
 
 .mainarticles .readmore a, .frontpage a {
@@ -383,22 +386,17 @@ div.author {
 
 @font-face {
     font-family: "Harry Potter";
-    src: url(harrypotter.ttf) format("truetype");
+    src: url(https://github.com/moonwalker74/the-daily-snitcher/blob/master/harrypotter.ttf?raw=true) format("truetype");
 }
 
 @font-face {
     font-family: "Marauders";
-    src: url(harrypotter2.ttf) format("truetype");
+    src: url(https://github.com/moonwalker74/the-daily-snitcher/blob/master/harrypotter2.ttf?raw=true) format("truetype");
 }
 
 @font-face {
     font-family: "Headline One";
-    src: url(HeadlineOne.ttf) format("truetype");
+    src: url(https://github.com/moonwalker74/the-daily-snitcher/blob/master/HeadlineOne.ttf?raw=true) format("truetype");
 }
 
-@media (max-width: 1024px) {
-  body {
-      padding: 2% 0;
-    }
-}
 
