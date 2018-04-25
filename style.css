@@ -386,17 +386,17 @@ div.author {
 
 @font-face {
     font-family: "Harry Potter";
-    src: url(https://github.com/moonwalker74/the-daily-snitcher/blob/master/harrypotter.ttf?raw=true) format("truetype");
+    src: url(harrypotter.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "Marauders";
-    src: url(https://github.com/moonwalker74/the-daily-snitcher/blob/master/harrypotter2.ttf?raw=true) format("truetype");
+    src: url(harrypotter2.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "Headline One";
-    src: url(https://github.com/moonwalker74/the-daily-snitcher/blob/master/HeadlineOne.ttf?raw=true) format("truetype");
+    src: url(HeadlineOne.ttf) format("truetype");
 }
 
 
