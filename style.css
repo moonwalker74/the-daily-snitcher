@@ -309,7 +309,7 @@ div.author {
   display: grid;
   grid-template-columns: .3fr 1.7fr 1fr;
   margin-top: 15px;
-  max-height: 300px;
+  max-height: 260px;
 }
 
 .mainarticles .readmore, .frontpage {
