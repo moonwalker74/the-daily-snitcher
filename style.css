@@ -359,6 +359,7 @@ div.author {
   writing-mode: vertical-rl;
   transform: rotate(180deg);
   text-align: center;
+  height: 260px;
 }
 
 
