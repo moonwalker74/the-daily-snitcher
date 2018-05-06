@@ -97,7 +97,7 @@ a#huf {
   margin: auto;
   position: relative;
   font-size: 2em;
-  top: .7em;
+  top: .6em;
   padding: 0 10px;
 }
 
@@ -238,10 +238,6 @@ div.author {
   margin-left: 10px;
 }
 
-.mainarticles h2 {
-
-}
-
 .mainarticles h2 span {
   display: inline-block;
   letter-spacing: 0px;
@@ -362,23 +358,23 @@ div.author {
 }
 
 
-#paper.none h1, #paper.none article h2, #paper.none p:first-letter {
+#paper.none h1, #paper.none h2, #paper.none p:first-letter {
   text-shadow: 3px 3px 0px rgb(162, 126, 41);
 }
 
-#paper.gry h1, #paper.gry article h2, #paper.gry p:first-letter {
+#paper.gry h1, #paper.gry h2, #paper.gry p:first-letter {
   text-shadow: 3px 3px 0px rgb(178, 35, 35);
 }
 
-#paper.sly h1, #paper.sly article h2, #paper.sly p:first-letter {
+#paper.sly h1, #paper.sly h2, #paper.sly p:first-letter {
   text-shadow: 3px 3px 0px rgb(44, 138, 76);
 }
 
-#paper.rav h1, #paper.rav article h2, #paper.rav p:first-letter {
+#paper.rav h1, #paper.rav h2, #paper.rav p:first-letter {
   text-shadow: 3px 3px 0px rgb(66, 93, 183);
 }
 
-#paper.huf h1, #paper.huf article h2, #paper.huf p:first-letter {
+#paper.huf h1, #paper.huf h2, #paper.huf p:first-letter {
   text-shadow: 3px 3px 0px rgb(236,185,57);
 }
 
